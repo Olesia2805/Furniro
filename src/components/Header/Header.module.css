@@ -1,0 +1,26 @@
+.header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.headerInner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  padding: 30px 0px;
+}
+
+.nav {
+  display: flex;
+  gap: 75px;
+}
+
+.icons {
+  display: flex;
+  gap: 45px;
+  font-size: 28px;
+}

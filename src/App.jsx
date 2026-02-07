@@ -13,7 +13,10 @@ const AboutProductPage = lazy(
 const ComparisionPage = lazy(
   () => import("./pages/ComparisonPage/ComparisonPage.jsx"),
 );
-const CardPage = lazy(() => import("./pages/CardPage/CardPage.jsx"));
+const FavouriteProductPage = lazy(
+  () => import("./pages/FavouriteProductPage/FavouriteProductPage.jsx"),
+);
+const CartPage = lazy(() => import("./pages/CartPage/CartPage.jsx"));
 const CheckoutPage = lazy(() => import("./pages/CheckoutPage/Checkout.jsx"));
 const ContactPage = lazy(() => import("./pages/ContactPage/ContactPage.jsx"));
 const BlogPage = lazy(() => import("./pages/BlogPage/BlogPage.jsx"));
@@ -27,11 +30,14 @@ const App = () => {
       <Routes>
         <Route path={ROUTER.HOME} element={<Layout />}>
           <Route index element={<HomePage />} />
-
           <Route path={`${ROUTER.SHOP}`} element={<ShopPage />} />
           <Route path={`${ROUTER.SHOPITEM}`} element={<AboutProductPage />} />
           <Route path={`${ROUTER.COMPARISION}`} element={<ComparisionPage />} />
-          <Route path={`${ROUTER.CART}`} element={<CardPage />} />
+          <Route
+            path={`${ROUTER.FAVOURITE}`}
+            element={<FavouriteProductPage />}
+          />
+          <Route path={`${ROUTER.CART}`} element={<CartPage />} />
           <Route path={`${ROUTER.CHECKOUT}`} element={<CheckoutPage />} />
           <Route path={`${ROUTER.CONTACT}`} element={<ContactPage />} />
           <Route path={`${ROUTER.BLOG}`} element={<BlogPage />} />
