@@ -1,3 +1,41 @@
 @import "./reset.css";
 @import "./variable.css";
 @import "./fonts.css";
+
+body {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  color: var(--color-paragraph);
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 125%;
+  color: var(--color-primary);
+}
+
+h2 {
+  font-size: 48px;
+  color: var(--color-secondary);
+}
+
+h3 {
+  font-weight: 600;
+  font-size: 36px;
+  color: var(--color-secondary);
+}
+
+p.muted {
+  color: var(--color-paragraph-muted);
+}
+
+a.link-white {
+  color: var(--color-link-white);
+}
+
+a.link-black {
+  color: var(--color-link-black);
+}
