@@ -7,5 +7,6 @@ export const ROUTER = {
   CHECKOUT: "/checkout",
   CONTACT: "/contact",
   BLOG: "/blog",
+  FAVOURITE: "/favourite",
   ALL: "*",
 };
