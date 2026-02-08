@@ -20,3 +20,24 @@
   color: var(--color-link-white);
   background-color: var(--bg-link-white-hover);
 }
+
+.btn--blog {
+  position: relative;
+  padding-bottom: 6px;
+}
+
+.btn--blog::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 0;
+  width: 77px;
+  height: 1px;
+  background-color: var(--color-link-black);
+  transition: width 0.3s ease;
+}
+
+.btn--blog:hover::after {
+  width: 100%;
+}
