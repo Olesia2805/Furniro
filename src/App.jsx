@@ -17,7 +17,9 @@ const FavouriteProductPage = lazy(
   () => import("./pages/FavouriteProductPage/FavouriteProductPage.jsx"),
 );
 const CartPage = lazy(() => import("./pages/CartPage/CartPage.jsx"));
-const CheckoutPage = lazy(() => import("./pages/CheckoutPage/Checkout.jsx"));
+const CheckoutPage = lazy(
+  () => import("./pages/CheckoutPage/CheckoutPage.jsx"),
+);
 const ContactPage = lazy(() => import("./pages/ContactPage/ContactPage.jsx"));
 const BlogPage = lazy(() => import("./pages/BlogPage/BlogPage.jsx"));
 const NotFoundPage = lazy(

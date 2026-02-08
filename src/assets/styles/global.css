@@ -5,14 +5,14 @@ body {
   font-family: var(--font-family);
   font-weight: 500;
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   color: var(--color-primary);
 }
 
 h1 {
   font-weight: 700;
   font-size: 52px;
-  line-height: 125%;
+  line-height: 1.25;
   color: var(--color-accent);
 }
 
