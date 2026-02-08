@@ -6,29 +6,36 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
-  color: var(--color-paragraph);
+  color: var(--color-primary);
 }
 
 h1 {
   font-weight: 700;
   font-size: 52px;
   line-height: 125%;
-  color: var(--color-primary);
+  color: var(--color-accent);
 }
 
 h2 {
   font-size: 48px;
-  color: var(--color-secondary);
 }
 
 h3 {
   font-weight: 600;
   font-size: 36px;
+}
+
+h4 {
+  font-weight: 600;
+  font-size: 25px;
+}
+
+p {
   color: var(--color-secondary);
 }
 
 p.muted {
-  color: var(--color-paragraph-muted);
+  color: var(--color-secondary-muted);
 }
 
 a.link-white {

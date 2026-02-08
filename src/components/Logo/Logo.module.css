@@ -14,3 +14,8 @@
   font-size: 34px;
   color: var(--color-link-black);
 }
+
+.logo:hover .text,
+.logo:focus-visible .text {
+  color: var(--color-link-black-hover);
+}

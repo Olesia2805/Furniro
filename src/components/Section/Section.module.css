@@ -1,0 +1,13 @@
+.section {
+  width: 100%;
+}
+
+.section--default {
+  margin-bottom: 56px;
+}
+
+.section--features {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: var(--bg-accent);
+}
