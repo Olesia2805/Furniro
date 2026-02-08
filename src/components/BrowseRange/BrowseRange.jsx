@@ -6,7 +6,7 @@ const BrowseRange = () => (
   <Section>
     <Container>
       <div className={styles.header}>
-        <h2>Browse The Range</h2>
+        <h3>Browse The Range</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
       </div>
       <ul className={styles.list}>

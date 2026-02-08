@@ -3,3 +3,21 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.container--card {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  z-index: 1;
+  padding-top: 153px;
+  padding-right: 58px;
+}
+
+.container--hero-page {
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 60px;
+  position: relative;
+}

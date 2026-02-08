@@ -7,3 +7,16 @@
 .btn:focus-visible {
   color: var(--color-link-black-hover);
 }
+
+.btn--accent {
+  background-color: var(--color-accent);
+  color: var(--color-link-white);
+  padding: 25px 72px;
+  transition: background 0.2s;
+}
+
+.btn--accent:hover,
+.btn--accent:focus-visible {
+  color: var(--color-link-white);
+  background-color: var(--bg-link-white-hover);
+}

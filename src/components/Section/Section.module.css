@@ -6,6 +6,17 @@
   margin-bottom: 56px;
 }
 
+.section--hero-home {
+  position: relative;
+  min-height: 810px;
+  margin-bottom: 56px;
+}
+
+.section--hero-page {
+  position: relative;
+  min-height: 315px;
+}
+
 .section--features {
   padding-top: 100px;
   padding-bottom: 100px;
