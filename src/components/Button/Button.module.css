@@ -8,13 +8,13 @@
 }
 
 .btn:hover:not(.btn--active) {
-  background-color: var(--bg-link-white-hover);
-  color: var(--color-link-white);
+  background-color: var(--bg-white-hover);
+  color: var(--color-white);
 }
 
 .btn--pagination {
   background-color: var(--bg-accent);
-  color: var(--color-link-black);
+  color: var(--color-black);
   width: 60px;
   height: 60px;
   border-radius: 10px;
@@ -22,7 +22,7 @@
 
 .btn--pagination-active {
   background-color: var(--color-accent);
-  color: var(--color-link-white);
+  color: var(--color-white);
   width: 60px;
   height: 60px;
   border-radius: 10px;

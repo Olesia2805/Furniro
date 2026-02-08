@@ -12,10 +12,10 @@
 .text {
   font-weight: 700;
   font-size: 34px;
-  color: var(--color-link-black);
+  color: var(--color-black);
 }
 
 .logo:hover .text,
 .logo:focus-visible .text {
-  color: var(--color-link-black-hover);
+  color: var(--color-black-hover);
 }

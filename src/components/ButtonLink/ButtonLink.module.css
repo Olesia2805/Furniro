@@ -1,24 +1,37 @@
 .btn {
-  color: var(--color-link-black);
+  color: var(--color-black);
   transition: color 0.2s;
 }
 
 .btn:hover,
 .btn:focus-visible {
-  color: var(--color-link-black-hover);
+  color: var(--color-black-hover);
+}
+
+.btn--secondary {
+  color: var(--color-accent);
+  border: 1px solid var(--color-accent);
+  padding: 12px 74px;
+  transition: background 0.2s;
+}
+
+.btn--secondary:hover,
+.btn--secondary:focus-visible {
+  color: var(--color-white);
+  background-color: var(--color-accent);
 }
 
 .btn--accent {
   background-color: var(--color-accent);
-  color: var(--color-link-white);
+  color: var(--color-white);
   padding: 25px 72px;
   transition: background 0.2s;
 }
 
 .btn--accent:hover,
 .btn--accent:focus-visible {
-  color: var(--color-link-white);
-  background-color: var(--bg-link-white-hover);
+  color: var(--color-white);
+  background-color: var(--bg-white-hover);
 }
 
 .btn--blog {
@@ -34,7 +47,7 @@
   bottom: 0;
   width: 77px;
   height: 1px;
-  background-color: var(--color-link-black);
+  background-color: var(--color-black);
   transition: width 0.3s ease;
 }
 
