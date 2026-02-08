@@ -8,7 +8,7 @@ const HeroHome = () => (
   <Section variant="hero-home">
     <img
       className={styles.bg}
-      src="/home-hero-background.webp"
+      src="/img/home-hero-background.webp"
       alt="furniture"
     />
     <Container variant="card">

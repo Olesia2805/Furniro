@@ -7,7 +7,7 @@ const HeroPage = ({ title }) => (
   <Section variant="hero-page">
     <img
       className={styles.bg}
-      src="/hero-background.webp"
+      src="/img/hero-background.webp"
       alt="table with flowers"
     />
     <Container variant="hero-page">
