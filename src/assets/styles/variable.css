@@ -1,9 +1,10 @@
 :root {
   --font-family: "Poppins", sans-serif;
-  --color-primary: #b88e2f;
-  --color-secondary: #3a3a3a;
-  --color-paragraph: #616161;
-  --color-paragraph-muted: #898989;
+  --color-accent: #b88e2f;
+  --bg-accent: #faf3ea;
+  --color-primary: #3a3a3a;
+  --color-secondary: #616161;
+  --color-secondary-muted: #898989;
   --color-link-white: #fff;
   --color-link-black: #000;
   --color-link-black-hover: #898989;

@@ -1,8 +1,9 @@
 import Features from "../../components/Features/Features";
-const ShopPage = () => (
+
+const CheckoutPage = () => (
   <>
     <Features />
   </>
 );
 
-export default ShopPage;
+export default CheckoutPage;

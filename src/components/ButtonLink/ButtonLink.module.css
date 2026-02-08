@@ -3,6 +3,7 @@
   transition: color 0.2s;
 }
 
-.btn:hover {
+.btn:hover,
+.btn:focus-visible {
   color: var(--color-link-black-hover);
 }

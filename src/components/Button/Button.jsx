@@ -1,8 +1,9 @@
+import styles from "./Button.module.css";
 import clsx from "clsx";
 
-const Button = ({ children, variant = "primary", ...props }) => {
+const Button = ({ children, variant = "primary", className }) => {
   return (
-    <button className={clsx("btn", `btn--${variant}`)} {...props}>
+    <button className={clsx(styles.btn, styles[`btn--${variant}`], className)}>
       {children}
     </button>
   );
