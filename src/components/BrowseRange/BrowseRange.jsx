@@ -13,7 +13,7 @@ const BrowseRange = () => (
         <li className={styles.item}>
           <img
             className={styles.img}
-            src="/src/assets/img/dining.webp"
+            src="/dining.webp"
             alt="Dining"
             width="380px"
             height="480px"
@@ -23,7 +23,7 @@ const BrowseRange = () => (
         <li className={styles.item}>
           <img
             className={styles.img}
-            src="/src/assets/img/living.webp"
+            src="/living.webp"
             alt="Living"
             width="380px"
             height="480px"
@@ -33,7 +33,7 @@ const BrowseRange = () => (
         <li className={styles.item}>
           <img
             className={styles.img}
-            src="/src/assets/img/bedroom.webp"
+            src="/bedroom.webp"
             alt="Bedroom"
             width="380px"
             height="480px"
