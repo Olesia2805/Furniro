@@ -22,3 +22,8 @@
   padding-bottom: 100px;
   background-color: var(--bg-accent);
 }
+
+.section--blog {
+  padding-top: 106px;
+  padding-bottom: 58px;
+}

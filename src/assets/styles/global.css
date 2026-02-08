@@ -38,11 +38,3 @@ p {
 p.muted {
   color: var(--color-secondary-muted);
 }
-
-a.link-white {
-  color: var(--color-link-white);
-}
-
-a.link-black {
-  color: var(--color-link-black);
-}
