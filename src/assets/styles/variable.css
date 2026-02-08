@@ -5,8 +5,10 @@
   --color-primary: #3a3a3a;
   --color-secondary: #616161;
   --color-secondary-muted: #898989;
-  --color-link-white: #fff;
-  --bg-link-white-hover: #947222;
-  --color-link-black: #000;
-  --color-link-black-hover: #898989;
+  --color-white: #fff;
+  --bg-white-hover: #947222;
+  --color-black: #000;
+  --color-black-hover: #898989;
+  --color-discount: #e97171;
+  --color-new-item: #2ec1ac;
 }

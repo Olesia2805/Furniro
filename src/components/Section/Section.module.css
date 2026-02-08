@@ -2,8 +2,8 @@
   width: 100%;
 }
 
-.section--default {
-  margin-bottom: 56px;
+.section--primary {
+  padding-bottom: 56px;
 }
 
 .section--hero-home {
@@ -26,4 +26,9 @@
 .section--blog {
   padding-top: 106px;
   padding-bottom: 58px;
+}
+
+.section--shop {
+  padding-top: 64px;
+  padding-bottom: 85px;
 }

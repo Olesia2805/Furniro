@@ -1,0 +1,2352 @@
+[
+  {
+    "id": 1,
+    "name": "Kira",
+    "subtitle": "Outdoor bench",
+    "price": 2800000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/101/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Bed",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Kira",
+      "additionalInformation": "Weight: 5kg",
+      "reviews": "49 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-001",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Leviosa",
+    "subtitle": "Modern stool",
+    "price": 2500000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": true,
+    "image": "https://picsum.photos/seed/102/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Lighting",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Leviosa",
+      "additionalInformation": "Weight: 7kg",
+      "reviews": "34 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-002",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Fandor",
+    "subtitle": "Classic armchair",
+    "price": 3300000,
+    "oldPrice": 4714285,
+    "discount": "-30%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/103/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Fandor",
+      "additionalInformation": "Weight: 16kg",
+      "reviews": "60 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-003",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Geralt",
+    "subtitle": "Bedside table",
+    "price": 4700000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/104/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Sofa",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Geralt",
+      "additionalInformation": "Weight: 5kg",
+      "reviews": "19 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-004",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Borgia",
+    "subtitle": "Bedside table",
+    "price": 4400000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/105/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Lighting",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Borgia",
+      "additionalInformation": "Weight: 6kg",
+      "reviews": "14 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-005",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Hera",
+    "subtitle": "Modern stool",
+    "price": 4300000,
+    "oldPrice": 6142857,
+    "discount": "-50%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/106/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Lighting",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Hera",
+      "additionalInformation": "Weight: 11kg",
+      "reviews": "91 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-006",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Juno",
+    "subtitle": "Stylish cafe chair",
+    "price": 1400000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/107/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Juno",
+      "additionalInformation": "Weight: 6kg",
+      "reviews": "83 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-007",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Hera",
+    "subtitle": "Minimalist table",
+    "price": 4100000,
+    "oldPrice": 5857142,
+    "discount": "-50%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/108/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Lighting",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Hera",
+      "additionalInformation": "Weight: 7kg",
+      "reviews": "87 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-008",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Respira",
+    "subtitle": "Office desk",
+    "price": 1600000,
+    "oldPrice": 2285714,
+    "discount": "-30%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/109/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Respira",
+      "additionalInformation": "Weight: 19kg",
+      "reviews": "36 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-009",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Juno",
+    "subtitle": "Office desk",
+    "price": 2700000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": true,
+    "image": "https://picsum.photos/seed/110/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Lighting",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Juno",
+      "additionalInformation": "Weight: 13kg",
+      "reviews": "48 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-010",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Lolito",
+    "subtitle": "Luxury sofa",
+    "price": 1100000,
+    "oldPrice": 1571428,
+    "discount": "-50%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/111/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Chair",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Lolito",
+      "additionalInformation": "Weight: 10kg",
+      "reviews": "85 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-011",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Grifo",
+    "subtitle": "Classic armchair",
+    "price": 3000000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/112/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Lighting",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Grifo",
+      "additionalInformation": "Weight: 20kg",
+      "reviews": "71 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-012",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Syltherine",
+    "subtitle": "Bedside table",
+    "price": 1300000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": true,
+    "image": "https://picsum.photos/seed/113/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Lighting",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Syltherine",
+      "additionalInformation": "Weight: 7kg",
+      "reviews": "91 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-013",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Hera",
+    "subtitle": "Classic armchair",
+    "price": 3400000,
+    "oldPrice": 4857142,
+    "discount": "-30%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/114/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Sofa",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Hera",
+      "additionalInformation": "Weight: 12kg",
+      "reviews": "87 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-014",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Grifo",
+    "subtitle": "Outdoor bench",
+    "price": 1200000,
+    "oldPrice": 1714285,
+    "discount": "-50%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/115/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Sofa",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Grifo",
+      "additionalInformation": "Weight: 12kg",
+      "reviews": "64 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-015",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Dante",
+    "subtitle": "Modern stool",
+    "price": 2000000,
+    "oldPrice": 2857142,
+    "discount": "-50%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/116/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Sofa",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Dante",
+      "additionalInformation": "Weight: 5kg",
+      "reviews": "86 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-016",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Celine",
+    "subtitle": "Modern stool",
+    "price": 2500000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": true,
+    "image": "https://picsum.photos/seed/117/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Lighting",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Celine",
+      "additionalInformation": "Weight: 14kg",
+      "reviews": "5 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-017",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Elara",
+    "subtitle": "Luxury sofa",
+    "price": 1600000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": true,
+    "image": "https://picsum.photos/seed/118/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Sofa",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Elara",
+      "additionalInformation": "Weight: 8kg",
+      "reviews": "27 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-018",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Adela",
+    "subtitle": "Minimalist table",
+    "price": 4400000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/119/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Sofa",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Adela",
+      "additionalInformation": "Weight: 20kg",
+      "reviews": "28 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-019",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Pingky",
+    "subtitle": "Stylish cafe chair",
+    "price": 2500000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": true,
+    "image": "https://picsum.photos/seed/120/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Pingky",
+      "additionalInformation": "Weight: 19kg",
+      "reviews": "67 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-020",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Lira",
+    "subtitle": "Office desk",
+    "price": 4600000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": true,
+    "image": "https://picsum.photos/seed/121/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Lira",
+      "additionalInformation": "Weight: 8kg",
+      "reviews": "75 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-021",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Elara",
+    "subtitle": "Office desk",
+    "price": 4000000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/122/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Lighting",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Elara",
+      "additionalInformation": "Weight: 6kg",
+      "reviews": "87 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-022",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Grifo",
+    "subtitle": "Outdoor bench",
+    "price": 1700000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/123/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Grifo",
+      "additionalInformation": "Weight: 18kg",
+      "reviews": "90 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-023",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Elara",
+    "subtitle": "Luxury sofa",
+    "price": 1700000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": true,
+    "image": "https://picsum.photos/seed/124/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Elara",
+      "additionalInformation": "Weight: 14kg",
+      "reviews": "92 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-024",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Celine",
+    "subtitle": "Stylish cafe chair",
+    "price": 1300000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": true,
+    "image": "https://picsum.photos/seed/125/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Lighting",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Celine",
+      "additionalInformation": "Weight: 13kg",
+      "reviews": "92 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-025",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Pingky",
+    "subtitle": "Minimalist table",
+    "price": 2800000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/126/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Pingky",
+      "additionalInformation": "Weight: 17kg",
+      "reviews": "98 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-026",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Lolito",
+    "subtitle": "Minimalist table",
+    "price": 4000000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": true,
+    "image": "https://picsum.photos/seed/127/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Sofa",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Lolito",
+      "additionalInformation": "Weight: 5kg",
+      "reviews": "34 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-027",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Kira",
+    "subtitle": "Classic armchair",
+    "price": 3700000,
+    "oldPrice": 5285714,
+    "discount": "-30%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/128/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Sofa",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Kira",
+      "additionalInformation": "Weight: 15kg",
+      "reviews": "44 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-028",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Grifo",
+    "subtitle": "Minimalist table",
+    "price": 3100000,
+    "oldPrice": 4428571,
+    "discount": "-30%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/129/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Grifo",
+      "additionalInformation": "Weight: 11kg",
+      "reviews": "29 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-029",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Dante",
+    "subtitle": "Classic armchair",
+    "price": 1100000,
+    "oldPrice": 1571428,
+    "discount": "-50%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/130/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Sofa",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Dante",
+      "additionalInformation": "Weight: 16kg",
+      "reviews": "58 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-030",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Geralt",
+    "subtitle": "Modern stool",
+    "price": 4700000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/131/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Geralt",
+      "additionalInformation": "Weight: 14kg",
+      "reviews": "15 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-031",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Kira",
+    "subtitle": "Modern stool",
+    "price": 2200000,
+    "oldPrice": 3142857,
+    "discount": "-30%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/132/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Bed",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Kira",
+      "additionalInformation": "Weight: 19kg",
+      "reviews": "52 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-032",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Respira",
+    "subtitle": "Minimalist table",
+    "price": 4600000,
+    "oldPrice": 6571428,
+    "discount": "-50%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/133/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Respira",
+      "additionalInformation": "Weight: 8kg",
+      "reviews": "16 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-033",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Celine",
+    "subtitle": "Minimalist table",
+    "price": 2300000,
+    "oldPrice": 3285714,
+    "discount": "-50%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/134/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Sofa",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Celine",
+      "additionalInformation": "Weight: 15kg",
+      "reviews": "39 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-034",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Juno",
+    "subtitle": "Luxury sofa",
+    "price": 3800000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/135/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Lighting",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Juno",
+      "additionalInformation": "Weight: 20kg",
+      "reviews": "67 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-035",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Juno",
+    "subtitle": "Modern stool",
+    "price": 1000000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/136/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Juno",
+      "additionalInformation": "Weight: 12kg",
+      "reviews": "91 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-036",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Celine",
+    "subtitle": "Bedside table",
+    "price": 1600000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/137/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Chair",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Celine",
+      "additionalInformation": "Weight: 18kg",
+      "reviews": "83 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-037",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Geralt",
+    "subtitle": "Luxury sofa",
+    "price": 3500000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/138/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Geralt",
+      "additionalInformation": "Weight: 14kg",
+      "reviews": "60 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-038",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Pingky",
+    "subtitle": "Stylish cafe chair",
+    "price": 3400000,
+    "oldPrice": 4857142,
+    "discount": "-50%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/139/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Bed",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Pingky",
+      "additionalInformation": "Weight: 9kg",
+      "reviews": "97 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-039",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Fandor",
+    "subtitle": "Bedside table",
+    "price": 2100000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": true,
+    "image": "https://picsum.photos/seed/140/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Fandor",
+      "additionalInformation": "Weight: 20kg",
+      "reviews": "92 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-040",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Hera",
+    "subtitle": "Classic armchair",
+    "price": 2100000,
+    "oldPrice": 3000000,
+    "discount": "-30%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/141/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Lighting",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Hera",
+      "additionalInformation": "Weight: 13kg",
+      "reviews": "72 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-041",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lira",
+    "subtitle": "Office desk",
+    "price": 1100000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/142/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Table",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Lira",
+      "additionalInformation": "Weight: 17kg",
+      "reviews": "37 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-042",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Isobel",
+    "subtitle": "Modern stool",
+    "price": 2400000,
+    "oldPrice": 3428571,
+    "discount": "-50%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/143/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Chair",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Isobel",
+      "additionalInformation": "Weight: 19kg",
+      "reviews": "85 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-043",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Potty",
+    "subtitle": "Minimalist table",
+    "price": 3500000,
+    "oldPrice": 5000000,
+    "discount": "-50%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/144/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Lighting",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Potty",
+      "additionalInformation": "Weight: 15kg",
+      "reviews": "35 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-044",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Elara",
+    "subtitle": "Classic armchair",
+    "price": 2200000,
+    "oldPrice": 3142857,
+    "discount": "-30%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/145/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Chair",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Elara",
+      "additionalInformation": "Weight: 11kg",
+      "reviews": "83 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-045",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Fandor",
+    "subtitle": "Modern stool",
+    "price": 1100000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/146/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Lighting",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Fandor",
+      "additionalInformation": "Weight: 20kg",
+      "reviews": "92 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-046",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Muggo",
+    "subtitle": "Classic armchair",
+    "price": 3900000,
+    "oldPrice": 5571428,
+    "discount": "-30%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/147/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Chair",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Muggo",
+      "additionalInformation": "Weight: 11kg",
+      "reviews": "12 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-047",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Dante",
+    "subtitle": "Classic armchair",
+    "price": 2000000,
+    "oldPrice": 2857142,
+    "discount": "-30%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/148/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Chair",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Dante",
+      "additionalInformation": "Weight: 12kg",
+      "reviews": "67 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-048",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Kira",
+    "subtitle": "Minimalist table",
+    "price": 1700000,
+    "oldPrice": null,
+    "discount": null,
+    "isNew": false,
+    "image": "https://picsum.photos/seed/149/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Bed",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Kira",
+      "additionalInformation": "Weight: 12kg",
+      "reviews": "98 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-049",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Potty",
+    "subtitle": "Luxury sofa",
+    "price": 1800000,
+    "oldPrice": 2571428,
+    "discount": "-50%",
+    "isNew": false,
+    "image": "https://picsum.photos/seed/150/800/600",
+    "shortDescription": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero.",
+    "category": "Sofa",
+    "tags": [
+      "Furniture",
+      "Interior",
+      "Modern"
+    ],
+    "tabs": {
+      "description": "Standard high-quality furniture description for Potty",
+      "additionalInformation": "Weight: 8kg",
+      "reviews": "43 customer reviews"
+    },
+    "specifications": {
+      "salesPackage": "1 Unit",
+      "modelNumber": "MOD-050",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "Standard",
+      "upholsteryMaterial": "Premium Fabric",
+      "upholsteryColor": "Custom",
+      "fillingMaterial": "Foam",
+      "finishType": "Polished",
+      "adjustableHeadrest": "No",
+      "maximumLoadCapacity": "120 kg",
+      "originOfManufacture": "Global",
+      "dimensions": {
+        "width": "50 cm",
+        "height": "90 cm",
+        "weight": "8 kg"
+      }
+    },
+    "warranty": {
+      "summary": "Manufacturer Warranty",
+      "serviceType": "On-site",
+      "covered": "Structural defects",
+      "notCovered": "Accidental damage",
+      "domestic": "1 year"
+    }
+  }
+]
