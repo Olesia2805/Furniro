@@ -6,10 +6,15 @@
   margin-bottom: 56px;
 }
 
-.section--hero {
+.section--hero-home {
   position: relative;
   min-height: 810px;
   margin-bottom: 56px;
+}
+
+.section--hero-page {
+  position: relative;
+  min-height: 315px;
 }
 
 .section--features {

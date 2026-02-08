@@ -4,11 +4,11 @@ import Container from "../Container/Container";
 import ButtonLink from "../ButtonLink/ButtonLink";
 import { ROUTER } from "../../app/routes";
 
-const Hero = () => (
-  <Section variant="hero">
+const HeroHome = () => (
+  <Section variant="hero-home">
     <img
       className={styles.bg}
-      src="/src/assets/img/hero-background.webp"
+      src="/src/assets/img/home-hero-background.webp"
       alt="furniture"
     />
     <Container variant="card">
@@ -27,4 +27,4 @@ const Hero = () => (
   </Section>
 );
 
-export default Hero;
+export default HeroHome;

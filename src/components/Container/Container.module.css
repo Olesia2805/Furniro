@@ -12,3 +12,12 @@
   padding-top: 153px;
   padding-right: 58px;
 }
+
+.container--hero-page {
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 60px;
+  position: relative;
+}
